@@ -55,3 +55,4 @@ notebooks/
 │       └── Predict_Data_from_results.ipynb
 └── 06_Business_Intelligence/
     └── Gold_DATA_to_BI.ipynb
+    └── P2_viz.pbix
