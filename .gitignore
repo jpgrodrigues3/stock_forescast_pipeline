@@ -1,4 +1,0 @@
-# Não versionar dados brutos
-data/
-*.csv
-*.parquet
