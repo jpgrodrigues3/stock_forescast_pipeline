@@ -26,7 +26,12 @@ notebooks/
 │   ├── rich_dim_promotion.ipynb
 │   ├── rich_dim_stores.ipynb
 │   └── rich_fact_sales.ipynb
-├── 04_Machine_Learning/
+├── 04_EDA/
+│   ├── EDA_agg_data.ipynb
+│   ├── EDA_Cities.ipynb
+│   ├── EDA_Products.ipynb
+│   └── eda_sales.ipynb
+├── 05_Machine_Learning/
 │   ├── Analysis/
 │   │   ├── Arima_products_demand_data.ipynb
 │   │   ├── Data_Quantity_By_Product-Store_Analysis.ipynb
@@ -48,5 +53,5 @@ notebooks/
 │   │   └── Model_For_Products_WITHOUT_data-XGBOOST.ipynb
 │   └── Predict_Stock/
 │       └── Predict_Data_from_results.ipynb
-└── 05_Business_Intelligence/
+└── 06_Business_Intelligence/
     └── Gold_DATA_to_BI.ipynb
