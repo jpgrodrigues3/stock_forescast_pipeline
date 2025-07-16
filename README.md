@@ -59,4 +59,4 @@ notebooks/
 ## Deliverables
 
 - [Project Report (PDF)](docs/Project_Report.pdf)  
-- [Presentation Slides (PPTX)](docs/Presentation.pptx)
+- [Presentation Slides (PDF)](docs/apresentacao_p2.pdf)
