@@ -55,3 +55,8 @@ notebooks/
 │       └── Predict_Data_from_results.ipynb
 └── 06_Business_Intelligence/
     └── Gold_DATA_to_BI.ipynb
+```
+## Deliverables
+
+- [Project Report (PDF)](docs/Project_Report.pdf)  
+- [Presentation Slides (PPTX)](docs/Presentation.pptx)
